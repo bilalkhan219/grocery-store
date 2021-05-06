@@ -1,0 +1,75 @@
+C:\Users\shuja\Documents\GitHub\EAD\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\Lecture41_wpf_multiview_mvvm.csprojAssemblyReference.cache
+C:\Users\shuja\Documents\GitHub\EAD\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\shuja\Documents\GitHub\EAD\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\Views\CourseView.g.cs
+C:\Users\shuja\Documents\GitHub\EAD\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\Views\StudentView.g.cs
+C:\Users\shuja\Documents\GitHub\EAD\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\shuja\Documents\GitHub\EAD\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\Lecture41_wpf_multiview_mvvm_MarkupCompile.cache
+C:\Users\shuja\Documents\GitHub\EAD\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\Lecture41_wpf_multiview_mvvm_MarkupCompile.lref
+C:\Users\shuja\Documents\GitHub\EAD\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\bin\Debug\netcoreapp3.1\Lecture41_wpf_multiview_mvvm.exe
+C:\Users\shuja\Documents\GitHub\EAD\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\bin\Debug\netcoreapp3.1\Lecture41_wpf_multiview_mvvm.deps.json
+C:\Users\shuja\Documents\GitHub\EAD\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\bin\Debug\netcoreapp3.1\Lecture41_wpf_multiview_mvvm.runtimeconfig.json
+C:\Users\shuja\Documents\GitHub\EAD\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\bin\Debug\netcoreapp3.1\Lecture41_wpf_multiview_mvvm.runtimeconfig.dev.json
+C:\Users\shuja\Documents\GitHub\EAD\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\bin\Debug\netcoreapp3.1\Lecture41_wpf_multiview_mvvm.dll
+C:\Users\shuja\Documents\GitHub\EAD\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\bin\Debug\netcoreapp3.1\Lecture41_wpf_multiview_mvvm.pdb
+C:\Users\shuja\Documents\GitHub\EAD\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\shuja\Documents\GitHub\EAD\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\Views\CourseView.baml
+C:\Users\shuja\Documents\GitHub\EAD\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\Views\StudentView.baml
+C:\Users\shuja\Documents\GitHub\EAD\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\Lecture41_wpf_multiview_mvvm.g.resources
+C:\Users\shuja\Documents\GitHub\EAD\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\Lecture41_wpf_multiview_mvvm.AssemblyInfoInputs.cache
+C:\Users\shuja\Documents\GitHub\EAD\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\Lecture41_wpf_multiview_mvvm.AssemblyInfo.cs
+C:\Users\shuja\Documents\GitHub\EAD\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\Lecture41_wpf_multiview_mvvm.csproj.CoreCompileInputs.cache
+C:\Users\shuja\Documents\GitHub\EAD\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\Lecture41_wpf_multiview_mvvm.dll
+C:\Users\shuja\Documents\GitHub\EAD\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\Lecture41_wpf_multiview_mvvm.pdb
+C:\Users\shuja\Documents\GitHub\EAD\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\Lecture41_wpf_multiview_mvvm.genruntimeconfig.cache
+C:\Users\shuja\Documents\GitHub\EAD\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\shuja\Documents\GitHub\EAD\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\App.baml
+E:\BSCS\5th semester\EAD\EAD-master\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\bin\Debug\netcoreapp3.1\Lecture41_wpf_multiview_mvvm.exe
+E:\BSCS\5th semester\EAD\EAD-master\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\bin\Debug\netcoreapp3.1\Lecture41_wpf_multiview_mvvm.deps.json
+E:\BSCS\5th semester\EAD\EAD-master\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\bin\Debug\netcoreapp3.1\Lecture41_wpf_multiview_mvvm.runtimeconfig.json
+E:\BSCS\5th semester\EAD\EAD-master\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\bin\Debug\netcoreapp3.1\Lecture41_wpf_multiview_mvvm.runtimeconfig.dev.json
+E:\BSCS\5th semester\EAD\EAD-master\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\bin\Debug\netcoreapp3.1\Lecture41_wpf_multiview_mvvm.dll
+E:\BSCS\5th semester\EAD\EAD-master\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\bin\Debug\netcoreapp3.1\Lecture41_wpf_multiview_mvvm.pdb
+E:\BSCS\5th semester\EAD\EAD-master\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\Lecture41_wpf_multiview_mvvm.csprojAssemblyReference.cache
+E:\BSCS\5th semester\EAD\EAD-master\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\BSCS\5th semester\EAD\EAD-master\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\Views\CourseView.g.cs
+E:\BSCS\5th semester\EAD\EAD-master\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\Views\StudentView.g.cs
+E:\BSCS\5th semester\EAD\EAD-master\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\App.g.cs
+E:\BSCS\5th semester\EAD\EAD-master\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+E:\BSCS\5th semester\EAD\EAD-master\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\Lecture41_wpf_multiview_mvvm_MarkupCompile.cache
+E:\BSCS\5th semester\EAD\EAD-master\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\Lecture41_wpf_multiview_mvvm_MarkupCompile.lref
+E:\BSCS\5th semester\EAD\EAD-master\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\App.baml
+E:\BSCS\5th semester\EAD\EAD-master\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\BSCS\5th semester\EAD\EAD-master\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\Views\CourseView.baml
+E:\BSCS\5th semester\EAD\EAD-master\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\Views\StudentView.baml
+E:\BSCS\5th semester\EAD\EAD-master\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\Lecture41_wpf_multiview_mvvm.g.resources
+E:\BSCS\5th semester\EAD\EAD-master\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\Lecture41_wpf_multiview_mvvm.AssemblyInfoInputs.cache
+E:\BSCS\5th semester\EAD\EAD-master\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\Lecture41_wpf_multiview_mvvm.AssemblyInfo.cs
+E:\BSCS\5th semester\EAD\EAD-master\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\Lecture41_wpf_multiview_mvvm.csproj.CoreCompileInputs.cache
+E:\BSCS\5th semester\EAD\EAD-master\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\Lecture41_wpf_multiview_mvvm.dll
+E:\BSCS\5th semester\EAD\EAD-master\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\Lecture41_wpf_multiview_mvvm.pdb
+E:\BSCS\5th semester\EAD\EAD-master\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\Lecture41_wpf_multiview_mvvm.genruntimeconfig.cache
+C:\Users\Bilal\Desktop\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\bin\Debug\netcoreapp3.1\Lecture41_wpf_multiview_mvvm.exe
+C:\Users\Bilal\Desktop\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\bin\Debug\netcoreapp3.1\Lecture41_wpf_multiview_mvvm.deps.json
+C:\Users\Bilal\Desktop\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\bin\Debug\netcoreapp3.1\Lecture41_wpf_multiview_mvvm.runtimeconfig.json
+C:\Users\Bilal\Desktop\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\bin\Debug\netcoreapp3.1\Lecture41_wpf_multiview_mvvm.runtimeconfig.dev.json
+C:\Users\Bilal\Desktop\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\bin\Debug\netcoreapp3.1\Lecture41_wpf_multiview_mvvm.dll
+C:\Users\Bilal\Desktop\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\bin\Debug\netcoreapp3.1\Lecture41_wpf_multiview_mvvm.pdb
+C:\Users\Bilal\Desktop\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\Lecture41_wpf_multiview_mvvm.csprojAssemblyReference.cache
+C:\Users\Bilal\Desktop\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Bilal\Desktop\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\Views\CourseView.g.cs
+C:\Users\Bilal\Desktop\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\Views\StudentView.g.cs
+C:\Users\Bilal\Desktop\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Bilal\Desktop\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\Bilal\Desktop\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\Lecture41_wpf_multiview_mvvm_MarkupCompile.cache
+C:\Users\Bilal\Desktop\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\Lecture41_wpf_multiview_mvvm_MarkupCompile.lref
+C:\Users\Bilal\Desktop\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\Bilal\Desktop\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Bilal\Desktop\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\Views\CourseView.baml
+C:\Users\Bilal\Desktop\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\Views\StudentView.baml
+C:\Users\Bilal\Desktop\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\Lecture41_wpf_multiview_mvvm.g.resources
+C:\Users\Bilal\Desktop\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\Lecture41_wpf_multiview_mvvm.AssemblyInfoInputs.cache
+C:\Users\Bilal\Desktop\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\Lecture41_wpf_multiview_mvvm.AssemblyInfo.cs
+C:\Users\Bilal\Desktop\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\Lecture41_wpf_multiview_mvvm.csproj.CoreCompileInputs.cache
+C:\Users\Bilal\Desktop\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\Lecture41_wpf_multiview_mvvm.dll
+C:\Users\Bilal\Desktop\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\Lecture41_wpf_multiview_mvvm.pdb
+C:\Users\Bilal\Desktop\Lecture41_wpf_multiview_mvvm\Lecture41_wpf_multiview_mvvm\obj\Debug\netcoreapp3.1\Lecture41_wpf_multiview_mvvm.genruntimeconfig.cache
